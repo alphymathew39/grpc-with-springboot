@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grpc-with-springboot-master/client-service/client-service.iml" filepath="$PROJECT_DIR$/grpc-with-springboot-master/client-service/client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-with-springboot-master/grpc-service/grpc-service.iml" filepath="$PROJECT_DIR$/grpc-with-springboot-master/grpc-service/grpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/grpc-with-springboot-master.iml" filepath="$PROJECT_DIR$/.idea/grpc-with-springboot-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-with-springboot-master/proto/proto.iml" filepath="$PROJECT_DIR$/grpc-with-springboot-master/proto/proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-with-springboot-master/spring-boot-grpc.iml" filepath="$PROJECT_DIR$/grpc-with-springboot-master/spring-boot-grpc.iml" />
+    </modules>
+  </component>
+</project>
